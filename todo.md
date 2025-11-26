@@ -6,7 +6,7 @@ TODO
 - [x] Provide batch script to launch the desktop app.
 - [x] Update `.gitignore` for new stack; drop Android ignores.
 - [x] Refresh `README.md` with desktop app usage instructions.
-
+ 
 Next steps
 ----------
 
